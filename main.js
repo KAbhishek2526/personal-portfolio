@@ -1,4 +1,3 @@
-
 const dynamicContainer = document.getElementById('dynamic-fireflies');
 let fireflyCount = 0;
 const maxFireflies = 100;  // limit max on screen to not overload browser
@@ -52,5 +51,4 @@ document.getElementById('contactForm').addEventListener('submit', function(e) {
   e.preventDefault();
   alert("Thanks! (Demo only. No backend configured.)");
 });
-
 
