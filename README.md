@@ -28,8 +28,7 @@ The website is mobile-friendly and works well on all screen sizes using Bootstra
 
 🌐 Live Site
 
-🔗 [https://KAbhishek2526.github.io/portfolio](https://KAbhishek2526.github.io/portfolio)  
-
+🔗https://github.com/KAbhishek2526/personal-portfolio.git
 📂 Project Structure
 
 portfolio/
